@@ -1,26 +1,25 @@
 ## Hi, I'm Nikita 👋
 
-<!--
-**NikitaZanella/NikitaZanella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer Freelance based in Ferrara - Italy. I learned to code as a self-taught and actually I'm deepening the JAMstack.
 
-Here are some ideas to get you started:
+## 📚 Knowledge
+  - HTML;
+  - CSS (Actually in love with Tailwind CSS);
+  - JavaScript;
+  - NOSQL DBs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning
+  - TypeScript;
+  - Python;
 
-## 📫 How to reach me:
-  - [sito personale](https://nikitazanella.it)
+## 📫 How to reach me
+  - [Personal Website](https://nikitazanella.it)
   - [LinkedIn](https://nikitazanella.it)
   - [Twitter](https://nikitazanella.it)
   - [YouTube](https://nikitazanella.it)
   
 ## ⚡ Recent Projects
   - 11ty-Tailwind-NetlifyCMS: A starter template made with [Eleventy](https://www.11ty.dev/), [Tailwind CSS](https://tailwindcss.com/) and [Netlify CMS](https://www.netlifycms.org/)
+
+
   
