@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I'm Nikita 👋
 
 <!--
 **NikitaZanella/NikitaZanella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📫 How to reach me:
+  - [sito personale](https://nikitazanella.it)
+  - [LinkedIn](https://nikitazanella.it)
+  - [Twitter](https://nikitazanella.it)
+  - [YouTube](https://nikitazanella.it)
+  
+## ⚡ Recent Projects
+  - 11ty-Tailwind-NetlifyCMS: A starter template made with [Eleventy](https://www.11ty.dev/), [Tailwind CSS](https://tailwindcss.com/) and [Netlify CMS](https://www.netlifycms.org/)
+  
