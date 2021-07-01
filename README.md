@@ -1,6 +1,6 @@
 ## Hi, I'm Nikita 👋
 
-I'm a Web Developer Freelance based in Ferrara - Italy. I'm a self-taught dev and actually I'm deepening the JAMstack.
+I'm a Web Developer Freelance based in Ferrara - Italy. I'm a self-taught dev deepening the JAMstack.
 
 ## 📚 Knowledge
   - HTML;
