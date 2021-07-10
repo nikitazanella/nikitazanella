@@ -1,10 +1,11 @@
 ## Hi, I'm Nikita 👋
 
-I'm a Web Developer Freelance based in Ferrara - Italy. I'm a self-taught dev deepening the JAMstack.
+I'm a Web Developer / Shopify Developer Freelance based in Ferrara - Italy.
 
 ## 📚 Knowledge
   - HTML;
   - CSS (Actually in love with Tailwind CSS);
+  - Liquid / Shopify
   - JavaScript;
   - NOSQL DBs.
 
