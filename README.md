@@ -3,10 +3,10 @@
 I'm a Web Developer / Shopify Developer Freelance based in Ferrara - Italy.
 
 ## 📚 Knowledge
-  - HTML;
-  - CSS (Actually in love with Tailwind CSS);
-  - Liquid / Shopify
-  - JavaScript;
+  - HTML/HTML5;
+  - CSS;              // TailwindCSS
+  - Liquid;           // Shopify
+  - JavaScript;       // Alpinejs
   - NOSQL DBs.
 
 ## 📚 Learning
