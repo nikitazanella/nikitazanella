@@ -14,7 +14,7 @@ My name is Nikita Zanella and I'm a Front End developer. I'm from Ferrara, Italy
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/NikitaZanella/NikitaZanella">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaZanella&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&layout=compact" />
+  <img align="center" style='width: 100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaZanella&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&layout=compact" />
 </a>
 
 <a href="https://github.com/NikitaZanella/NikitaZanella">
