@@ -8,7 +8,13 @@ My name is Nikita Zanella and I'm a Front End developer. I'm from Ferrara, Italy
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-NodeJS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Vue-informational?style=flat&logo=vue&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Tailwind CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+
+
 
 
 ## &#x1f4c8; GitHub Stats
