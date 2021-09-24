@@ -19,6 +19,7 @@ My name is Nikita Zanella and I'm a Front End developer. I'm from Ferrara, Italy
 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Liquid-informational?style=flat&logo=liquid&logoColor=white&color=2bbc8a)
 
 
 
