@@ -1,10 +1,8 @@
-## Hi, I'm Nikita 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Frontend Developer based in Ferrara - Italy.
+Frontend Developer based in Ferrara - Italy. 
 
-## 📚 Learning
-  - TypeScript;
-  - Python;
+
 
 ## 📫 How to reach me
   - [Personal Website](https://nikitazanella.it)
