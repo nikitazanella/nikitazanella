@@ -8,7 +8,6 @@ You can find me on [Twitter](https://twitter.com/ZanellaNikita), [LinkedIn](http
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
